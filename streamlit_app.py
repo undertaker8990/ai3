@@ -74,6 +74,12 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
        "images": ["https://i.namu.wiki/i/Hk_7Vz3q7FimZWL3-9jwJWcJiwPh4EpAKI6g4sBgZE2w7lvnl4WiKLSab1l5notJlviyc-wlkwocM0aSvbsc-i9Kdwcc5l2nhWvQAE1dHV_GwGo6YJ1tU6kqdaiknfRL9eRq0EIHhUmR6vexv3II-w.webp"],
        "videos": ["https://www.youtube.com/watch?v=XPjbfBB9Z1A"]
      },
+
+     labels[1]: {
+       "texts": ["생존자는 외형을 빼면 별차점이 없다"],
+       "images": ["https://i.namu.wiki/i/AZS8RkvhxQTVeigwfqK5RO4UoEXKtFhttf2tacAPCXQEhzPNOjbeJ2tmBbWfAU0z2JHvxLHN3q9SY5yA13jsvj7dMCSvhQGvCHvHbd5t76riIUzhP6J8W2krXKgxb1DIpKz2dJbJf0T3dM79BEYt-A.webp"],
+       "videos": ["https://www.youtube.com/watch?v=ywu6soTa5hg"]
+     },
 }
 
 # ======================
