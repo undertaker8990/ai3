@@ -83,7 +83,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
 labels[2]: {
        "texts": ["콜라보 살인마들의 경우 성능이 SS에서 F까지 극단적이다"],
-       "images": ["https://i.namu.wiki/i/8WyIxZL2E4zGlEskSOaGEnoZNpzPvL0HM8SRUzdbWDNAs5GY4S5Q_avpbK63Cj0Y0R7Xx7aF106v3YOwbiDJefZEFLudNPUjzqWUaxBXXuXZ_mg9hJ2_NuaDGWvjWLclM6Pu3psvkHLmHwyhfd0NPA.webp,"],
+       "images": ["https://i.namu.wiki/i/8WyIxZL2E4zGlEskSOaGEnoZNpzPvL0HM8SRUzdbWDNAs5GY4S5Q_avpbK63Cj0Y0R7Xx7aF106v3YOwbiDJefZEFLudNPUjzqWUaxBXXuXZ_mg9hJ2_NuaDGWvjWLclM6Pu3psvkHLmHwyhfd0NPA.webp"],
        "videos": ["https://www.youtube.com/watch?v=e7jdl9WnKkM,https://www.youtube.com/watch?v=6Po2e5LuDKo"]
      },
 
